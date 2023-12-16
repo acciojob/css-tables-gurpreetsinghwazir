@@ -7,6 +7,6 @@
 tr:nth-child(odd) {
   background-color: #f2f2f2;
 }
-tr:nth-child(odd) {
+tr:nth-child(space) {
   background-color: #ffffff;
 }
